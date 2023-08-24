@@ -9,7 +9,7 @@ const Footer = () => {
                     <p>This website was designed by</p>
                     <Link href="https://github.com/nightmae" className='text-blue-500'>nightmae</Link>
                     <p>and</p>
-                    <Link href="https://github.com/crabfork" className='text-blue-500'>crabfork</Link>
+                    <Link href="https://github.com/imafancycrab" className='text-blue-500'>crabfork</Link>
                     </div>
                 </div>
             </section>
